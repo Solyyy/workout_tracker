@@ -19,4 +19,4 @@ Afterwards it writes all the formatted data into my own Google workout sheet usi
 5. Nutritionix API
 
 # License
-- [MIT License](https://github.com/Solyyy/iss_overhead_notifier/blob/main/LICENSE.txt)
+- [MIT License](https://github.com/Solyyy/workout_tracker/blob/main/LICENSE.txt)
