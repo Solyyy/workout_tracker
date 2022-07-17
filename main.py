@@ -22,8 +22,8 @@ NUTRITIONIX_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
 headers = {
     "x-app-id": NUTRITIONIX_APP_ID,
     "x-app-key": NUTRITIONIX_API_KEY,
-
 }
+
 exercise_configs = {
     "query": exercise,
     "gender": gender,
