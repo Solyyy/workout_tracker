@@ -31,6 +31,7 @@ exercise_configs = {
     "height_cm": height_cm,
     "age": age
 }
+
 # Posting data to Nutrionix API and configuring exercise dictionary
 response = requests.post(url=NUTRITIONIX_ENDPOINT, headers=headers, json=exercise_configs)
 exercise_data = response.json()
